@@ -1,6 +1,6 @@
 {
   "name": "large-screen-for-vue",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": false,
   "description": "大屏适配缩放",
   "main": "lib/large-screen-for-vue.umd.min.js",
