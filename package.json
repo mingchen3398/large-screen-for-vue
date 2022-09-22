@@ -36,5 +36,9 @@
   },
   "gitHooks": {
     "pre-commit": "lint-staged"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mingchen3398/large-screen-for-vue.git"
   }
 }

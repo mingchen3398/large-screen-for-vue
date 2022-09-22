@@ -27,4 +27,6 @@ App.vue
 
 <scale-container /> √
 ```
-<a href="" target="_blank" title="large-screen-for-vue"><img alt="npm" src="https://img.shields.io/npm/v/large-screen-for-vue?color=%2342d392&logo=large-screen-for-vue"></a>
+<a href="https://www.npmjs.com/package/large-screen-for-vue" target="_blank" title="large-screen-for-vue"><img alt="npm" src="https://img.shields.io/npm/v/large-screen-for-vue?color=%2342d392&logo=large-screen-for-vue"></a>
+
+[![NPM](https://nodei.co/npm/large-screen-for-vue.png)](https://nodei.co/npm/large-screen-for-vue/)

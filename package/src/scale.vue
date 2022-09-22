@@ -42,7 +42,7 @@ export default {
       }
     },
     debounce (fn, delay) {
-      const delays = delay || 300
+      const delays = delay || 200
       let timer
       return function () {
         const th = this
