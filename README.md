@@ -6,13 +6,14 @@ npm install large-screen-for-vue -s
 yarn add large-screen-for-vue
 ```
 
-### 使用
+## 使用
 main.js
 ```
 import scaleContainer from 'large-screen-for-vue'
 Vue.use(scaleContainer)
 ```
-需要使用的组件
+#### 需要使用的组件
+*example1*
 App.vue
 ```html
 <scale-container>
@@ -20,7 +21,13 @@ App.vue
 </scale-container>
 ```
 
-### 注意事项
+*example2*
+```html
+<scale-container :width="1920" :height="1080">
+// todo
+</scale-container>
+```
+## 注意事项
 组件使用不要使用小驼峰写法
 ```html
 <scaleContainer/> x
